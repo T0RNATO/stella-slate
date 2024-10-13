@@ -1,5 +1,9 @@
-# Vue 3 + TypeScript + Vite
+# Online Stella Slate
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A website replacing the board game [Stella](https://boardgamegeek.com/boardgame/329845/stella-dixit-universe/ratings?rated=1&comment=1)'s kind of crappy whiteboard 'slate' and marker with an easier online version.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Play the game as usual, but instead of writing on the whiteboard, get all the players to go to https://stella.tornato.dev/, and hopefully it's self-explanatory.
+
+---
+
+This *isn't* an online remake of the game itself. You'll need to have the game and cards to play.
